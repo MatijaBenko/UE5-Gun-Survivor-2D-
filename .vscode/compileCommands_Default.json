@@ -1,0 +1,106 @@
+[
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\Source\\FPSSurvivor\\Bullet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\.vscode\\compileCommands_Default\\FPSSurvivor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\Source\\FPSSurvivor\\Bullet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\.vscode\\compileCommands_Default\\FPSSurvivor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\Source\\FPSSurvivor\\Enemy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\.vscode\\compileCommands_Default\\FPSSurvivor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\Source\\FPSSurvivor\\Enemy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\.vscode\\compileCommands_Default\\FPSSurvivor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\Source\\FPSSurvivor\\EnemySpawner.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\.vscode\\compileCommands_Default\\FPSSurvivor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\Source\\FPSSurvivor\\EnemySpawner.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\.vscode\\compileCommands_Default\\FPSSurvivor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\Source\\FPSSurvivor\\FPSSurvivor.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\.vscode\\compileCommands_Default\\FPSSurvivor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\Source\\FPSSurvivor\\FPSSurvivor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\.vscode\\compileCommands_Default\\FPSSurvivor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\Source\\FPSSurvivor\\FPSSurvivor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\.vscode\\compileCommands_Default\\FPSSurvivor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\Source\\FPSSurvivor\\FPSSurvivorGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\.vscode\\compileCommands_Default\\FPSSurvivor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\Source\\FPSSurvivor\\FPSSurvivorGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\.vscode\\compileCommands_Default\\FPSSurvivor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\Source\\FPSSurvivor\\TopDownCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\.vscode\\compileCommands_Default\\FPSSurvivor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\Source\\FPSSurvivor\\TopDownCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\FPSSurvivor\\.vscode\\compileCommands_Default\\FPSSurvivor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
